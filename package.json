@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-nodejs",
+  "version": "1.0.0",
+  "description": "Connecting to MongoDB using Node.js and mongoose. Basic CRUD operations.",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amal",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.6.13"
+  }
+}
